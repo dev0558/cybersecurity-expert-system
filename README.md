@@ -30,4 +30,4 @@ git clone https://github.com/dev0558/cybersecurity-expert-system.git
 cd cybersecurity-expert-system
 
 # Run the program
-python3 expert_sys_cysec.py
+python3 code.py
