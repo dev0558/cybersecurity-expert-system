@@ -26,7 +26,7 @@ The system is designed for **SMEs, IT professionals, and students** to simplify 
 ## 📂 How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/cybersecurity-expert-system.git
+git clone https://github.com/dev0558/cybersecurity-expert-system.git
 cd cybersecurity-expert-system
 
 # Run the program
